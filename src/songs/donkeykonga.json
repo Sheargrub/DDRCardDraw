@@ -49,7 +49,8 @@
   },
   "songs": [
     {
-      "name": "Mori no Kumasan",
+      "name": "森のくまさん",
+      "nameTranslation": "Mori no Kumasan",
       "saHash": "1-jp-1",
       "artist": "Yoshihiro Baba",
       "jacket": "donkeykonga/1-jp-nojacket.jpg",
@@ -74,7 +75,8 @@
       ]
     },
     {
-      "name": "Clarinet o Kowashichatta",
+      "name": "クラリネットをこわしちゃった",
+      "nameTranslation": "Clarinet o Kowashichatta",
       "saHash": "1-jp-2",
       "artist": "Yoshiko Ishii",
       "jacket": "donkeykonga/1-jp-nojacket.jpg",
@@ -99,7 +101,8 @@
       ]
     },
     {
-      "name": "Ōkina Furudokei",
+      "name": "大きな古時計",
+      "nameTranslation": "Ōkina Furudokei",
       "saHash": "1-jp-3",
       "artist": "Tachikawa Sumito",
       "jacket": "donkeykonga/1-jp-nojacket.jpg",
@@ -124,7 +127,8 @@
       ]
     },
     {
-      "name": "Hyokkori Hyōtanjima",
+      "name": "ひょっこりひょうたん島",
+      "nameTranslation": "Hyokkori Hyōtanjima",
       "saHash": "1-jp-4",
       "artist": "Yoko Maekawa",
       "jacket": "donkeykonga/1-jp-4.jpg",
@@ -149,7 +153,8 @@
       ]
     },
     {
-      "name": "We are the ONE ~Bokura wa Hitotsu~",
+      "name": "We are the ONE ～僕らはひとつ～",
+      "nameTranslation": "We are the ONE ~Bokura wa Hitotsu~",
       "saHash": "1-jp-5",
       "artist": "Akira Kushida",
       "jacket": "donkeykonga/1-jp-5.png",
@@ -174,7 +179,8 @@
       ]
     },
     {
-      "name": "Hamtaro Tottoko Uta",
+      "name": "ハム太郎とっとこうた",
+      "nameTranslation": "Hamtaro Tottoko Uta",
       "saHash": "1-jp-6",
       "artist": "Uncredited",
       "jacket": "donkeykonga/1-jp-6.jpg",
@@ -199,7 +205,8 @@
       ]
     },
     {
-      "name": "Advance Adventure",
+      "name": "アドバンス・アドベンチャー",
+      "nameTranslation": "Advance Adventure",
       "saHash": "1-jp-7",
       "artist": "GARDEN",
       "jacket": "donkeykonga/1-jp-7.jpg",
@@ -224,7 +231,8 @@
       ]
     },
     {
-      "name": "Kirby!",
+      "name": "カービィ!",
+      "nameTranslation": "Kirby!",
       "saHash": "1-jp-8",
       "artist": "Hiroko Asakawa",
       "jacket": "donkeykonga/1-jp-8.jpg",
@@ -249,7 +257,8 @@
       ]
     },
     {
-      "name": "Densetsu no Starfy",
+      "name": "伝説のスタフィー",
+      "nameTranslation": "Densetsu no Starfy",
       "saHash": "1-jp-9",
       "artist": "Becky",
       "jacket": "donkeykonga/1-jp-9.jpg",
@@ -274,7 +283,8 @@
       ]
     },
     {
-      "name": "Ai no Uta",
+      "name": "愛のうた",
+      "nameTranslation": "Ai no Uta",
       "saHash": "1-jp-10",
       "artist": "Strawberry Flower",
       "jacket": "donkeykonga/1-jp-10.jpg",
@@ -299,7 +309,8 @@
       ]
     },
     {
-      "name": "Mata Aeru Hi Made",
+      "name": "またあえる日まで",
+      "nameTranslation": "Mata Aeru Hi Made",
       "saHash": "1-jp-11",
       "artist": "Yuzu",
       "jacket": "donkeykonga/1-jp-11.jpg",
@@ -324,7 +335,8 @@
       ]
     },
     {
-      "name": "Kaze no La La La",
+      "name": "風のららら",
+      "nameTranslation": "Kaze no La La La",
       "saHash": "1-jp-12",
       "artist": "Mai Kuraki",
       "jacket": "donkeykonga/1-jp-12.jpg",
@@ -349,7 +361,8 @@
       ]
     },
     {
-      "name": "Momoiro Kataomoi",
+      "name": "♡桃色片想い♡",
+      "nameTranslation": "♡Momoiro Kataomoi♡",
       "saHash": "1-jp-13",
       "artist": "Aya Matsuura",
       "jacket": "donkeykonga/1-jp-13.jpg",
@@ -374,7 +387,8 @@
       ]
     },
     {
-      "name": "Mini-Moni. Jankenpyon!",
+      "name": "ミニモニ。ジャンケンぴょん!",
+      "nameTranslation": "Mini-Moni. Jankenpyon!",
       "saHash": "1-jp-14",
       "artist": "Mini-Moni",
       "jacket": "donkeykonga/1-jp-14.jpg",
@@ -399,7 +413,8 @@
       ]
     },
     {
-      "name": "Ashita ga Arusa",
+      "name": "明日があるさ",
+      "nameTranslation": "Ashita ga Arusa",
       "saHash": "1-jp-15",
       "artist": "Re:Japan",
       "jacket": "donkeykonga/1-jp-15.jpg",
@@ -424,7 +439,8 @@
       ]
     },
     {
-      "name": "Koi no Dance Site",
+      "name": "恋のダンスサイト",
+      "nameTranslation": "Koi no Dance Site",
       "saHash": "1-jp-16",
       "artist": "Morning Musume",
       "jacket": "donkeykonga/1-jp-16.jpg",
@@ -474,7 +490,7 @@
       ]
     },
     {
-      "name": "Shake",
+      "name": "SHAKE",
       "saHash": "1-jp-18",
       "artist": "SMAP",
       "jacket": "donkeykonga/1-jp-18.jpg",
@@ -499,7 +515,8 @@
       ]
     },
     {
-      "name": "Desire -Jōnetsu-",
+      "name": "DESIRE -情熱-",
+      "nameTranslation": "Desire -Jōnetsu-",
       "saHash": "1-jp-19",
       "artist": "Akina Nakamori",
       "jacket": "donkeykonga/1-jp-19.jpg",
@@ -524,7 +541,7 @@
       ]
     },
     {
-      "name": "Colors",
+      "name": "COLORS",
       "saHash": "1-jp-20",
       "artist": "Hikaru Utada",
       "jacket": "donkeykonga/1-jp-20.jpg",
@@ -549,7 +566,8 @@
       ]
     },
     {
-      "name": "Asu e no Tobira",
+      "name": "明日への扉",
+      "nameTranslation": "Asu e no Tobira",
       "saHash": "1-jp-21",
       "artist": "I WiSH",
       "jacket": "donkeykonga/1-jp-21.jpg",
@@ -599,7 +617,7 @@
       ]
     },
     {
-      "name": "The Galaxy Express 999",
+      "name": "THE GALAXY EXPRESS 999",
       "saHash": "1-jp-23",
       "artist": "Godiego",
       "jacket": "donkeykonga/1-jp-23.jpg",
@@ -624,7 +642,8 @@
       ]
     },
     {
-      "name": "Mas que Nada",
+      "name": "マシュ・ケ・ナダ",
+      "nameTranslation": "Mas que Nada",
       "saHash": "1-jp-24",
       "artist": "Sérgio Mendes",
       "jacket": "donkeykonga/1-jp-24.jpg",
@@ -649,7 +668,8 @@
       ]
     },
     {
-      "name": "La Bamba",
+      "name": "ラ・バンバ",
+      "nameTranslation": "La Bamba",
       "saHash": "1-jp-25",
       "artist": "Ritchie Valens",
       "jacket": "donkeykonga/1-jp-25.jpg",
@@ -674,7 +694,8 @@
       ]
     },
     {
-      "name": "Mambo No. 5",
+      "name": "マンボＮｏ.５",
+      "nameTranslation": "Mambo No. 5",
       "saHash": "1-jp-26",
       "artist": "Pérez Prado",
       "jacket": "donkeykonga/1-jp-26.jpg",
@@ -699,7 +720,8 @@
       ]
     },
     {
-      "name": "Oklahoma Mixer",
+      "name": "オクラホマミキサー",
+      "nameTranslation": "Oklahoma Mixer",
       "saHash": "1-jp-27",
       "artist": "Uncredited",
       "jacket": "donkeykonga/1-jp-nojacket.jpg",
