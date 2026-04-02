@@ -2470,6 +2470,338 @@
           "diffClass": "gorilla"
         }
       ]
+    },
+    {
+      "name": "ドンキーコンガ",
+      "nameTranslation": "Donkey Konga",
+      "saHash": "3-jp-36",
+      "artist": "Uncredited",
+      "jacket": "donkeykonga/3-jp-nojacket.jpg",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 2,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "MAPPY",
+      "saHash": "3-jp-37",
+      "artist": "Nobuyuki Ohnogi",
+      "jacket": "donkeykonga/3-jp-37.jpg",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 4,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "PAC-MAN",
+      "saHash": "3-jp-38",
+      "artist": "Shigeichi Ishimura and Toshio Kai",
+      "jacket": "donkeykonga/3-jp-38.jpg",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 7,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "ディグダグ",
+      "nameTranslation": "Dig Dug",
+      "saHash": "3-jp-39",
+      "artist": "Yuriko Keino",
+      "jacket": "donkeykonga/3-jp-39.jpg",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 6,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "ドルアーガの塔",
+      "nameTranslation": "The Tower of Druaga",
+      "saHash": "3-jp-40",
+      "artist": "Junko Ozawa",
+      "jacket": "donkeykonga/3-jp-40.jpg",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 5,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "Sky Kid",
+      "saHash": "3-jp-41",
+      "artist": "Junko Ozawa",
+      "jacket": "donkeykonga/3-jp-41.jpg",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 6,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "スーパーマリオブラザーズ地上BGM",
+      "nameTranslation": "Super Mario Bros. Ground BGM",
+      "saHash": "3-jp-42",
+      "artist": "Koji Kondo",
+      "jacket": "donkeykonga/3-jp-42.png",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 5,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "スーパーマリオブラザーズ水中BGM",
+      "nameTranslation": "Super Mario Bros. Underwater BGM",
+      "saHash": "3-jp-43",
+      "artist": "Koji Kondo",
+      "jacket": "donkeykonga/3-jp-42.png",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 8,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "ゼルダの伝説",
+      "nameTranslation": "The Legend of Zelda",
+      "saHash": "3-jp-44",
+      "artist": "Koji Kondo",
+      "jacket": "donkeykonga/3-jp-44.jpg",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 3,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "バルーンファイト",
+      "nameTranslation": "Balloon Fight",
+      "saHash": "3-jp-45",
+      "artist": "Hirokazu Tanaka",
+      "jacket": "donkeykonga/3-jp-45.jpg",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 5,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "ドクターマリオ",
+      "nameTranslation": "Dr. Mario",
+      "saHash": "3-jp-46",
+      "artist": "Hirokazu Tanaka",
+      "jacket": "donkeykonga/3-jp-46.png",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 6,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "スーパーマリオブラザーズ3",
+      "nameTranslation": "Super Mario Bros. 3",
+      "saHash": "3-jp-47",
+      "artist": "Koji Kondo",
+      "jacket": "donkeykonga/3-jp-47.jpg",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 3,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "星のカービィ 夢の泉の物語",
+      "nameTranslation": "Kirby's Adventure",
+      "saHash": "3-jp-48",
+      "artist": "Jun Ishikawa and Hirokazu Ando",
+      "jacket": "donkeykonga/3-jp-48.jpg",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 3,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "謎の村雨城",
+      "nameTranslation": "The Mysterious Murasame Castle",
+      "saHash": "3-jp-49",
+      "artist": "Koji Kondo",
+      "jacket": "donkeykonga/3-jp-49.jpg",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 3,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "パルテナの鏡",
+      "nameTranslation": "Kid Icarus",
+      "saHash": "3-jp-50",
+      "artist": "Hirokazu Tanaka",
+      "jacket": "donkeykonga/3-jp-50.png",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 5,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "マリオブラザーズ",
+      "nameTranslation": "Mario Bros.",
+      "saHash": "3-jp-51",
+      "artist": "Yukio Kaneoka",
+      "jacket": "donkeykonga/3-jp-51.png",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 4,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "XEVIOUS",
+      "saHash": "3-jp-52",
+      "artist": "Yuriko Keino",
+      "jacket": "donkeykonga/3-jp-52.jpg",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 1,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "ドンキーコング",
+      "nameTranslation": "Donkey Kong",
+      "saHash": "3-jp-53",
+      "artist": "Yukio Kaneoka",
+      "jacket": "donkeykonga/3-jp-53.png",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 1,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "ドンキーコングJR.",
+      "nameTranslation": "Donkey Kong Jr.",
+      "saHash": "3-jp-54",
+      "artist": "Yukio Kaneoka",
+      "jacket": "donkeykonga/3-jp-54.png",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 1,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "クルクルランド",
+      "nameTranslation": "Clu Clu Land",
+      "saHash": "3-jp-55",
+      "artist": "Akito Nakatsuka",
+      "jacket": "donkeykonga/3-jp-55.png",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 2,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
+    },
+    {
+      "name": "アイスクライマー",
+      "nameTranslation": "Ice Climber",
+      "saHash": "3-jp-56",
+      "artist": "Akito Nakatsuka",
+      "jacket": "donkeykonga/3-jp-nojacket.jpg",
+      "bpm": "?",
+      "folder": "Donkey Konga 3 (JP)",
+      "charts": [
+        {
+          "lvl": 2,
+          "style": "single",
+          "diffClass": "famicom"
+        }
+      ]
     }
   ]
 }
