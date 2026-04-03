@@ -18,14 +18,21 @@
       "Donkey Konga 2 (EU)",
       "Donkey Konga 3 (JP)"
     ],
-    "flags": ["dupe-jp", "dupe-na"],
+    "flags": [
+      "jp-dupeof-na",
+      "jp-dupeof-eu",
+      "na-dupeof-jp",
+      "na-dupeof-eu",
+      "eu-dupeof-jp",
+      "eu-dupeof-na"
+    ],
     "lastUpdated": 1768702400603
   },
   "defaults": {
     "style": "single",
     "difficulties": ["chimp", "gorilla"],
     "folders": ["Donkey Konga (NA)"],
-    "flags": ["dupe-jp"],
+    "flags": ["na-dupeof-jp", "na-dupeof-eu"],
     "lowerLvlBound": 5,
     "upperLvlBound": 8
   },
@@ -36,9 +43,12 @@
       "chimp": "Chimp",
       "gorilla": "Gorilla",
       "famicom": "Famicom",
-      "single": "Single",
-      "dupe-jp": "NA/EU Duplicates of JP songs",
-      "dupe-na": "EU Duplicates of NA songs",
+      "jp-dupeof-na": "(JP) Charts that also appear in NA releases",
+      "jp-dupeof-eu": "(JP) Charts that also appear in EU releases",
+      "na-dupeof-jp": "(NA) Charts that also appear in JP releases",
+      "na-dupeof-eu": "(NA) Charts that also appear in EU releases",
+      "eu-dupeof-jp": "(EU) Charts that also appear in JP releases",
+      "eu-dupeof-na": "(EU) Charts that also appear in NA releases",
       "$abbr": {
         "monkey": "MONKEY",
         "chimp": "CHIMP",
@@ -50,7 +60,7 @@
   "songs": [
     {
       "name": "森のくまさん",
-      "nameTranslation": "Mori no Kumasan",
+      "name_translation": "Mori no Kumasan",
       "saHash": "1-jp-1",
       "artist": "Yoshihiro Baba",
       "jacket": "donkeykonga/1-jp-nojacket.jpg",
@@ -76,7 +86,7 @@
     },
     {
       "name": "クラリネットをこわしちゃった",
-      "nameTranslation": "Clarinet o Kowashichatta",
+      "name_translation": "Clarinet o Kowashichatta",
       "saHash": "1-jp-2",
       "artist": "Yoshiko Ishii",
       "jacket": "donkeykonga/1-jp-nojacket.jpg",
@@ -102,7 +112,7 @@
     },
     {
       "name": "大きな古時計",
-      "nameTranslation": "Ōkina Furudokei",
+      "name_translation": "Ōkina Furudokei",
       "saHash": "1-jp-3",
       "artist": "Tachikawa Sumito",
       "jacket": "donkeykonga/1-jp-nojacket.jpg",
@@ -128,7 +138,7 @@
     },
     {
       "name": "ひょっこりひょうたん島",
-      "nameTranslation": "Hyokkori Hyōtanjima",
+      "name_translation": "Hyokkori Hyōtanjima",
       "saHash": "1-jp-4",
       "artist": "Yoko Maekawa",
       "jacket": "donkeykonga/1-jp-4.jpg",
@@ -154,7 +164,7 @@
     },
     {
       "name": "We are the ONE ～僕らはひとつ～",
-      "nameTranslation": "We are the ONE ~Bokura wa Hitotsu~",
+      "name_translation": "We are the ONE ~Bokura wa Hitotsu~",
       "saHash": "1-jp-5",
       "artist": "Akira Kushida",
       "jacket": "donkeykonga/1-jp-5.png",
@@ -180,7 +190,7 @@
     },
     {
       "name": "ハム太郎とっとこうた",
-      "nameTranslation": "Hamtaro Tottoko Uta",
+      "name_translation": "Hamtaro Tottoko Uta",
       "saHash": "1-jp-6",
       "artist": "Uncredited",
       "jacket": "donkeykonga/1-jp-6.jpg",
@@ -206,7 +216,7 @@
     },
     {
       "name": "アドバンス・アドベンチャー",
-      "nameTranslation": "Advance Adventure",
+      "name_translation": "Advance Adventure",
       "saHash": "1-jp-7",
       "artist": "GARDEN",
       "jacket": "donkeykonga/1-jp-7.jpg",
@@ -232,7 +242,7 @@
     },
     {
       "name": "カービィ!",
-      "nameTranslation": "Kirby!",
+      "name_translation": "Kirby!",
       "saHash": "1-jp-8",
       "artist": "Hiroko Asakawa",
       "jacket": "donkeykonga/1-jp-8.jpg",
@@ -258,7 +268,7 @@
     },
     {
       "name": "伝説のスタフィー",
-      "nameTranslation": "Densetsu no Starfy",
+      "name_translation": "Densetsu no Starfy",
       "saHash": "1-jp-9",
       "artist": "Becky",
       "jacket": "donkeykonga/1-jp-9.jpg",
@@ -284,7 +294,7 @@
     },
     {
       "name": "愛のうた",
-      "nameTranslation": "Ai no Uta",
+      "name_translation": "Ai no Uta",
       "saHash": "1-jp-10",
       "artist": "Strawberry Flower",
       "jacket": "donkeykonga/1-jp-10.jpg",
@@ -310,7 +320,7 @@
     },
     {
       "name": "またあえる日まで",
-      "nameTranslation": "Mata Aeru Hi Made",
+      "name_translation": "Mata Aeru Hi Made",
       "saHash": "1-jp-11",
       "artist": "Yuzu",
       "jacket": "donkeykonga/1-jp-11.jpg",
@@ -336,7 +346,7 @@
     },
     {
       "name": "風のららら",
-      "nameTranslation": "Kaze no La La La",
+      "name_translation": "Kaze no La La La",
       "saHash": "1-jp-12",
       "artist": "Mai Kuraki",
       "jacket": "donkeykonga/1-jp-12.jpg",
@@ -362,7 +372,7 @@
     },
     {
       "name": "♡桃色片想い♡",
-      "nameTranslation": "♡Momoiro Kataomoi♡",
+      "name_translation": "♡Momoiro Kataomoi♡",
       "saHash": "1-jp-13",
       "artist": "Aya Matsuura",
       "jacket": "donkeykonga/1-jp-13.jpg",
@@ -388,7 +398,7 @@
     },
     {
       "name": "ミニモニ。ジャンケンぴょん!",
-      "nameTranslation": "Mini-Moni. Jankenpyon!",
+      "name_translation": "Mini-Moni. Jankenpyon!",
       "saHash": "1-jp-14",
       "artist": "Mini-Moni",
       "jacket": "donkeykonga/1-jp-14.jpg",
@@ -414,7 +424,7 @@
     },
     {
       "name": "明日があるさ",
-      "nameTranslation": "Ashita ga Arusa",
+      "name_translation": "Ashita ga Arusa",
       "saHash": "1-jp-15",
       "artist": "Re:Japan",
       "jacket": "donkeykonga/1-jp-15.jpg",
@@ -440,7 +450,7 @@
     },
     {
       "name": "恋のダンスサイト",
-      "nameTranslation": "Koi no Dance Site",
+      "name_translation": "Koi no Dance Site",
       "saHash": "1-jp-16",
       "artist": "Morning Musume",
       "jacket": "donkeykonga/1-jp-16.jpg",
@@ -516,7 +526,7 @@
     },
     {
       "name": "DESIRE -情熱-",
-      "nameTranslation": "Desire -Jōnetsu-",
+      "name_translation": "Desire -Jōnetsu-",
       "saHash": "1-jp-19",
       "artist": "Akina Nakamori",
       "jacket": "donkeykonga/1-jp-19.jpg",
@@ -567,7 +577,7 @@
     },
     {
       "name": "明日への扉",
-      "nameTranslation": "Asu e no Tobira",
+      "name_translation": "Asu e no Tobira",
       "saHash": "1-jp-21",
       "artist": "I WiSH",
       "jacket": "donkeykonga/1-jp-21.jpg",
@@ -643,7 +653,7 @@
     },
     {
       "name": "マシュ・ケ・ナダ",
-      "nameTranslation": "Mas que Nada",
+      "name_translation": "Mas que Nada",
       "saHash": "1-jp-24",
       "artist": "Sérgio Mendes",
       "jacket": "donkeykonga/1-jp-24.jpg",
@@ -669,7 +679,7 @@
     },
     {
       "name": "ラ・バンバ",
-      "nameTranslation": "La Bamba",
+      "name_translation": "La Bamba",
       "saHash": "1-jp-25",
       "artist": "Ritchie Valens",
       "jacket": "donkeykonga/1-jp-25.jpg",
@@ -694,8 +704,8 @@
       ]
     },
     {
-      "name": "マンボＮｏ.５",
-      "nameTranslation": "Mambo No. 5",
+      "name": "マンボNo.5",
+      "name_translation": "Mambo No. 5",
       "saHash": "1-jp-26",
       "artist": "Pérez Prado",
       "jacket": "donkeykonga/1-jp-26.jpg",
@@ -721,7 +731,7 @@
     },
     {
       "name": "オクラホマミキサー",
-      "nameTranslation": "Oklahoma Mixer",
+      "name_translation": "Oklahoma Mixer",
       "saHash": "1-jp-27",
       "artist": "Uncredited",
       "jacket": "donkeykonga/1-jp-nojacket.jpg",
@@ -746,12 +756,14 @@
       ]
     },
     {
-      "name": "Turkish March",
+      "name": "トルコ行進曲",
+      "name_translation": "Turkish March",
       "saHash": "1-jp-28",
       "artist": "Wolfgang Amadeus Mozart",
       "jacket": "donkeykonga/1-jp-nojacket.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (JP)",
+      "flags": ["jp-dupeof-na", "jp-dupeof-eu"],
       "charts": [
         {
           "lvl": 2,
@@ -771,12 +783,14 @@
       ]
     },
     {
-      "name": "Hungarian Dance No.5 in G Minor",
+      "name": "ハンガリー舞曲",
+      "name_translation": "Hungarian Dance No.5 in G Minor",
       "saHash": "1-na-29",
       "artist": "Johannes Brahms",
       "jacket": "donkeykonga/1-jp-nojacket.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (JP)",
+      "flags": ["jp-dupeof-na", "jp-dupeof-eu"],
       "charts": [
         {
           "lvl": 4,
@@ -796,12 +810,14 @@
       ]
     },
     {
-      "name": "Mario Bros. Theme",
+      "name": "スーパーマリオブラザーズ地上BGM",
+      "name_translation": "Mario Bros. Theme",
       "saHash": "1-jp-30",
       "artist": "Uncredited",
       "jacket": "donkeykonga/1-na-32.png",
       "bpm": "?",
       "folder": "Donkey Konga (JP)",
+      "flags": ["jp-dupeof-na", "jp-dupeof-eu"],
       "charts": [
         {
           "lvl": 4,
@@ -821,12 +837,14 @@
       ]
     },
     {
-      "name": "DK Rap",
+      "name": "モンキーラップ",
+      "name_translation": "DK Rap",
       "saHash": "1-jp-31",
       "artist": "Uncredited",
       "jacket": "donkeykonga/1-na-30.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (JP)",
+      "flags": ["jp-dupeof-na", "jp-dupeof-eu"],
       "charts": [
         {
           "lvl": 3,
@@ -846,12 +864,14 @@
       ]
     },
     {
-      "name": "Donkey Konga Theme",
+      "name": "ドンキーコンガのテーマ",
+      "name_translation": "Donkey Konga Theme",
       "saHash": "1-jp-32",
       "artist": "Uncredited",
       "jacket": "donkeykonga/1-na-nojacket.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (JP)",
+      "flags": ["jp-dupeof-na", "jp-dupeof-eu"],
       "charts": [
         {
           "lvl": 4,
@@ -902,6 +922,7 @@
       "jacket": "donkeykonga/1-na-nojacket.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
+      "flags": ["na-dupeof-jp"],
       "charts": [
         {
           "lvl": 5,
@@ -1052,6 +1073,7 @@
       "jacket": "donkeykonga/1-na-8.png",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
+      "flags": ["na-dupeof-eu"],
       "charts": [
         {
           "lvl": 2,
@@ -1102,6 +1124,7 @@
       "jacket": "donkeykonga/1-na-10.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
+      "flags": ["na-dupeof-eu"],
       "charts": [
         {
           "lvl": 7,
@@ -1125,6 +1148,7 @@
       "saHash": "1-na-11",
       "artist": "Little Eva",
       "jacket": "donkeykonga/1-na-11.jpg",
+      "flags": ["na-dupeof-eu"],
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
       "charts": [
@@ -1175,6 +1199,7 @@
       "saHash": "1-na-13",
       "artist": "Blink-182",
       "jacket": "donkeykonga/1-na-13.jpg",
+      "flags": ["na-dupeof-eu"],
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
       "charts": [
@@ -1225,6 +1250,7 @@
       "saHash": "1-na-15",
       "artist": "The Supremes",
       "jacket": "donkeykonga/1-na-15.png",
+      "flags": ["na-dupeof-eu"],
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
       "charts": [
@@ -1275,6 +1301,7 @@
       "saHash": "1-na-17",
       "artist": "Martha and the Vandellas",
       "jacket": "donkeykonga/1-na-17.jpg",
+      "flags": ["na-dupeof-eu"],
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
       "charts": [
@@ -1352,6 +1379,7 @@
       "jacket": "donkeykonga/1-na-20.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
+      "flags": ["na-dupeof-eu"],
       "charts": [
         {
           "lvl": 8,
@@ -1427,6 +1455,7 @@
       "jacket": "donkeykonga/1-na-23.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
+      "flags": ["na-dupeof-eu"],
       "charts": [
         {
           "lvl": 3,
@@ -1452,6 +1481,7 @@
       "jacket": "donkeykonga/1-na-24.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
+      "flags": ["na-dupeof-eu"],
       "charts": [
         {
           "lvl": 8,
@@ -1477,6 +1507,7 @@
       "jacket": "donkeykonga/1-na-25.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
+      "flags": ["na-dupeof-eu"],
       "charts": [
         {
           "lvl": 4,
@@ -1502,6 +1533,7 @@
       "jacket": "donkeykonga/1-na-26.png",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
+      "flags": ["na-dupeof-eu"],
       "charts": [
         {
           "lvl": 3,
@@ -1552,7 +1584,7 @@
       "jacket": "donkeykonga/1-na-nojacket.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
-      "flags": ["dupe-jp"],
+      "flags": ["na-dupeof-jp", "na-dupeof-eu"],
       "charts": [
         {
           "lvl": 4,
@@ -1578,7 +1610,7 @@
       "jacket": "donkeykonga/1-na-nojacket.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
-      "flags": ["dupe-jp"],
+      "flags": ["na-dupeof-jp", "na-dupeof-eu"],
       "charts": [
         {
           "lvl": 2,
@@ -1604,7 +1636,7 @@
       "jacket": "donkeykonga/1-na-30.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
-      "flags": ["dupe-jp"],
+      "flags": ["na-dupeof-jp", "na-dupeof-eu"],
       "charts": [
         {
           "lvl": 3,
@@ -1630,7 +1662,7 @@
       "jacket": "donkeykonga/1-na-31.png",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
-      "flags": ["dupe-jp"],
+      "flags": ["na-dupeof-jp", "na-dupeof-eu"],
       "charts": [
         {
           "lvl": 6,
@@ -1656,7 +1688,7 @@
       "jacket": "donkeykonga/1-na-32.png",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
-      "flags": ["dupe-jp"],
+      "flags": ["na-dupeof-jp", "na-dupeof-eu"],
       "charts": [
         {
           "lvl": 4,
@@ -1682,7 +1714,7 @@
       "jacket": "donkeykonga/1-na-nojacket.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (NA)",
-      "flags": ["dupe-jp"],
+      "flags": ["na-dupeof-jp", "na-dupeof-eu"],
       "charts": [
         {
           "lvl": 4,
@@ -1783,7 +1815,7 @@
       "jacket": "donkeykonga/1-na-11.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-na"],
+      "flags": ["eu-dupeof-na"],
       "charts": [
         {
           "lvl": 2,
@@ -1809,7 +1841,7 @@
       "jacket": "donkeykonga/1-na-17.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-na"],
+      "flags": ["eu-dupeof-na"],
       "charts": [
         {
           "lvl": 5,
@@ -1835,7 +1867,7 @@
       "jacket": "donkeykonga/1-na-24.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-na"],
+      "flags": ["eu-dupeof-na"],
       "charts": [
         {
           "lvl": 8,
@@ -1861,7 +1893,7 @@
       "jacket": "donkeykonga/1-na-25.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-na"],
+      "flags": ["eu-dupeof-na"],
       "charts": [
         {
           "lvl": 4,
@@ -1912,7 +1944,7 @@
       "jacket": "donkeykonga/1-na-15.png",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-na"],
+      "flags": ["eu-dupeof-na"],
       "charts": [
         {
           "lvl": 3,
@@ -1938,7 +1970,7 @@
       "jacket": "donkeykonga/1-na-13.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-na"],
+      "flags": ["eu-dupeof-na"],
       "charts": [
         {
           "lvl": 5,
@@ -1964,7 +1996,7 @@
       "jacket": "donkeykonga/1-na-26.png",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-na"],
+      "flags": ["eu-dupeof-na"],
       "charts": [
         {
           "lvl": 3,
@@ -1990,7 +2022,7 @@
       "jacket": "donkeykonga/1-na-10.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-na"],
+      "flags": ["eu-dupeof-na"],
       "charts": [
         {
           "lvl": 7,
@@ -2041,7 +2073,7 @@
       "jacket": "donkeykonga/1-na-20.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-na"],
+      "flags": ["eu-dupeof-na"],
       "charts": [
         {
           "lvl": 8,
@@ -2067,7 +2099,7 @@
       "jacket": "donkeykonga/1-na-23.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-na"],
+      "flags": ["eu-dupeof-na"],
       "charts": [
         {
           "lvl": 3,
@@ -2193,7 +2225,7 @@
       "jacket": "donkeykonga/1-na-8.png",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-na"],
+      "flags": ["eu-dupeof-na"],
       "charts": [
         {
           "lvl": 2,
@@ -2269,7 +2301,7 @@
       "jacket": "donkeykonga/1-eu-nojacket.png",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-jp", "dupe-na"],
+      "flags": ["eu-dupeof-jp", "eu-dupeof-na"],
       "charts": [
         {
           "lvl": 4,
@@ -2295,7 +2327,7 @@
       "jacket": "donkeykonga/1-eu-nojacket.png",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-jp", "dupe-na"],
+      "flags": ["eu-dupeof-jp", "eu-dupeof-na"],
       "charts": [
         {
           "lvl": 2,
@@ -2321,7 +2353,7 @@
       "jacket": "donkeykonga/1-na-32.png",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-jp", "dupe-na"],
+      "flags": ["eu-dupeof-jp", "eu-dupeof-na"],
       "charts": [
         {
           "lvl": 4,
@@ -2372,7 +2404,7 @@
       "jacket": "donkeykonga/1-na-31.png",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-jp", "dupe-na"],
+      "flags": ["eu-dupeof-jp", "eu-dupeof-na"],
       "charts": [
         {
           "lvl": 6,
@@ -2448,7 +2480,7 @@
       "jacket": "donkeykonga/1-eu-nojacket.png",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-jp", "dupe-na"],
+      "flags": ["eu-dupeof-jp", "eu-dupeof-na"],
       "charts": [
         {
           "lvl": 4,
@@ -2474,7 +2506,7 @@
       "jacket": "donkeykonga/1-na-30.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
-      "flags": ["dupe-jp", "dupe-na"],
+      "flags": ["eu-dupeof-jp", "eu-dupeof-na"],
       "charts": [
         {
           "lvl": 3,
@@ -2495,7 +2527,7 @@
     },
     {
       "name": "ドンキーコンガ",
-      "nameTranslation": "Donkey Konga",
+      "name_translation": "Donkey Konga",
       "saHash": "3-jp-36",
       "artist": "Uncredited",
       "jacket": "donkeykonga/3-jp-nojacket.jpg",
@@ -2541,7 +2573,7 @@
     },
     {
       "name": "ディグダグ",
-      "nameTranslation": "Dig Dug",
+      "name_translation": "Dig Dug",
       "saHash": "3-jp-39",
       "artist": "Yuriko Keino",
       "jacket": "donkeykonga/3-jp-39.jpg",
@@ -2557,7 +2589,7 @@
     },
     {
       "name": "ドルアーガの塔",
-      "nameTranslation": "The Tower of Druaga",
+      "name_translation": "The Tower of Druaga",
       "saHash": "3-jp-40",
       "artist": "Junko Ozawa",
       "jacket": "donkeykonga/3-jp-40.jpg",
@@ -2588,7 +2620,7 @@
     },
     {
       "name": "スーパーマリオブラザーズ地上BGM",
-      "nameTranslation": "Super Mario Bros. Ground BGM",
+      "name_translation": "Super Mario Bros. Ground BGM",
       "saHash": "3-jp-42",
       "artist": "Koji Kondo",
       "jacket": "donkeykonga/3-jp-42.png",
@@ -2604,7 +2636,7 @@
     },
     {
       "name": "スーパーマリオブラザーズ水中BGM",
-      "nameTranslation": "Super Mario Bros. Underwater BGM",
+      "name_translation": "Super Mario Bros. Underwater BGM",
       "saHash": "3-jp-43",
       "artist": "Koji Kondo",
       "jacket": "donkeykonga/3-jp-42.png",
@@ -2620,7 +2652,7 @@
     },
     {
       "name": "ゼルダの伝説",
-      "nameTranslation": "The Legend of Zelda",
+      "name_translation": "The Legend of Zelda",
       "saHash": "3-jp-44",
       "artist": "Koji Kondo",
       "jacket": "donkeykonga/3-jp-44.jpg",
@@ -2636,7 +2668,7 @@
     },
     {
       "name": "バルーンファイト",
-      "nameTranslation": "Balloon Fight",
+      "name_translation": "Balloon Fight",
       "saHash": "3-jp-45",
       "artist": "Hirokazu Tanaka",
       "jacket": "donkeykonga/3-jp-45.jpg",
@@ -2652,7 +2684,7 @@
     },
     {
       "name": "ドクターマリオ",
-      "nameTranslation": "Dr. Mario",
+      "name_translation": "Dr. Mario",
       "saHash": "3-jp-46",
       "artist": "Hirokazu Tanaka",
       "jacket": "donkeykonga/3-jp-46.png",
@@ -2668,7 +2700,7 @@
     },
     {
       "name": "スーパーマリオブラザーズ3",
-      "nameTranslation": "Super Mario Bros. 3",
+      "name_translation": "Super Mario Bros. 3",
       "saHash": "3-jp-47",
       "artist": "Koji Kondo",
       "jacket": "donkeykonga/3-jp-47.jpg",
@@ -2684,7 +2716,7 @@
     },
     {
       "name": "星のカービィ 夢の泉の物語",
-      "nameTranslation": "Kirby's Adventure",
+      "name_translation": "Kirby's Adventure",
       "saHash": "3-jp-48",
       "artist": "Jun Ishikawa and Hirokazu Ando",
       "jacket": "donkeykonga/3-jp-48.jpg",
@@ -2700,7 +2732,7 @@
     },
     {
       "name": "謎の村雨城",
-      "nameTranslation": "The Mysterious Murasame Castle",
+      "name_translation": "The Mysterious Murasame Castle",
       "saHash": "3-jp-49",
       "artist": "Koji Kondo",
       "jacket": "donkeykonga/3-jp-49.jpg",
@@ -2716,7 +2748,7 @@
     },
     {
       "name": "パルテナの鏡",
-      "nameTranslation": "Kid Icarus",
+      "name_translation": "Kid Icarus",
       "saHash": "3-jp-50",
       "artist": "Hirokazu Tanaka",
       "jacket": "donkeykonga/3-jp-50.png",
@@ -2732,7 +2764,7 @@
     },
     {
       "name": "マリオブラザーズ",
-      "nameTranslation": "Mario Bros.",
+      "name_translation": "Mario Bros.",
       "saHash": "3-jp-51",
       "artist": "Yukio Kaneoka",
       "jacket": "donkeykonga/3-jp-51.png",
@@ -2763,7 +2795,7 @@
     },
     {
       "name": "ドンキーコング",
-      "nameTranslation": "Donkey Kong",
+      "name_translation": "Donkey Kong",
       "saHash": "3-jp-53",
       "artist": "Yukio Kaneoka",
       "jacket": "donkeykonga/3-jp-53.png",
@@ -2779,7 +2811,7 @@
     },
     {
       "name": "ドンキーコングJR.",
-      "nameTranslation": "Donkey Kong Jr.",
+      "name_translation": "Donkey Kong Jr.",
       "saHash": "3-jp-54",
       "artist": "Yukio Kaneoka",
       "jacket": "donkeykonga/3-jp-54.png",
@@ -2795,7 +2827,7 @@
     },
     {
       "name": "クルクルランド",
-      "nameTranslation": "Clu Clu Land",
+      "name_translation": "Clu Clu Land",
       "saHash": "3-jp-55",
       "artist": "Akito Nakatsuka",
       "jacket": "donkeykonga/3-jp-55.png",
@@ -2811,10 +2843,10 @@
     },
     {
       "name": "アイスクライマー",
-      "nameTranslation": "Ice Climber",
+      "name_translation": "Ice Climber",
       "saHash": "3-jp-56",
       "artist": "Akito Nakatsuka",
-      "jacket": "donkeykonga/3-jp-nojacket.jpg",
+      "jacket": "donkeykonga/3-jp-56.jpg",
       "bpm": "?",
       "folder": "Donkey Konga 3 (JP)",
       "charts": [
