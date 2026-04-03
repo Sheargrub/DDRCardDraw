@@ -50,10 +50,10 @@
       "eu-dupeof-jp": "(EU) Charts that also appear in JP releases",
       "eu-dupeof-na": "(EU) Charts that also appear in NA releases",
       "$abbr": {
-        "monkey": "MONKEY",
-        "chimp": "CHIMP",
-        "gorilla": "GORILLA",
-        "famicom": "FAMICOM"
+        "monkey": "MNK",
+        "chimp": "CHM",
+        "gorilla": "GRL",
+        "famicom": "FC"
       }
     }
   },
@@ -2377,7 +2377,7 @@
       "name": "Donkey Kong Country Theme",
       "saHash": "1-eu-26",
       "artist": "Uncredited",
-      "jacket": "donkeykonga/1-eu-26.png",
+      "jacket": "donkeykonga/1-eu-26.jpg",
       "bpm": "?",
       "folder": "Donkey Konga (EU)",
       "charts": [
@@ -2944,7 +2944,7 @@
       "name": "CHA-LA HEAD-CHA-LA",
       "saHash": "3-jp-17",
       "artist": "Hironobu Kageyama",
-      "jacket": "donkeykonga/3-jp-17.jpg",
+      "jacket": "donkeykonga/3-jp-17.png",
       "bpm": "156",
       "folder": "Donkey Konga 3 (JP)",
       "charts": [
@@ -3100,7 +3100,7 @@
       "name_translation": "The Entertainer",
       "saHash": "3-jp-23",
       "artist": "Scott Joplin",
-      "jacket": "donkeykonga/3-jp-24.jpg",
+      "jacket": "donkeykonga/3-jp-23.jpg",
       "bpm": "?",
       "folder": "Donkey Konga 3 (JP)",
       "charts": [
